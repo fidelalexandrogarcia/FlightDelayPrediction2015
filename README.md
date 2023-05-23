@@ -1,4 +1,4 @@
-# Flight Delay Predictions applying machine learning
+# Flight Delay Predictions Applying Machine Learning
 
 ## About this project:
 
