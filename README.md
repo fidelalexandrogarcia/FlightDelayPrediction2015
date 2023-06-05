@@ -3,7 +3,7 @@
 ## About this project:
 
 Delayed flights can have significant negative economic impacts on airlines, airports, and passengers which motivates the creation of more robust 
-delay management programs like the existing ground delay program. Our project consists of two parts: analyzing flight & weather datasets, 
+delay management programs like the existing FAA ground delay program (GDP). Our project consists of two parts: analyzing flight & weather datasets, 
 and predicting flight delays. One dataset has a year’s worth of all US flight delay info [retrieved from Kaggle](https://www.kaggle.com/datasets/usdot/flight-delays?select=flights.csv/) and the other dataset has been gathered.
 by web-scraping [weather site](https://www.wunderground.com/history/). We implemented a model to predict weather-induced airline delays using ML algorithm random Forest.
 
