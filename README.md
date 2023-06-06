@@ -7,17 +7,17 @@ delay management programs like the existing FAA ground delay program (GDP). This
 and predicting flight delays. One dataset has a year’s worth of all US flight delay info [retrieved from Kaggle](https://www.kaggle.com/datasets/usdot/flight-delays?select=flights.csv/) and the other dataset has been gathered.
 by web-scraping [weather site](https://www.wunderground.com/history/). We implemented a model to predict weather-induced airline delays using ML algorithm Random Forest.
 
-## Video Demo
+## Installation - Video Demo
 
 Click this link to go to the
-[Youtube Video Demo](https://www.youtube.com/watch?v=45kfTg5ZabA)
+[Youtube Video Demo](https://youtu.be/ShbRHaTKp_E)
 
 ## Description
 
 This project contains 2 folders:
 
-- Doc contains  the project's final report and poster
-- code contains the files necessary to run the web application
+- Doc contains  the project's final report
+- Code contains the files necessary to run the web applications
 
 ## Installation
 
@@ -60,6 +60,6 @@ pip install seaborn
 - Tableau
 
 ## Authors:
-Theodore Cox | Fidel Garcia | Winnie Messa | Wendy Navarrete
+Fidel Garcia | Theodore Cox | Winnie Messa | Wendy Navarrete
 
 
